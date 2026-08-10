@@ -1,4 +1,4 @@
-print("Practical Work #1. Task 2: Cyclic Structures")
+print("Cyclic Structures")
 
 while True:
     n = int(input("Enter a two-digit number (N): "))
