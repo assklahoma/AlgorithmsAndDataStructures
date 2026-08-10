@@ -1,6 +1,6 @@
 import random
 
-print("Practical Work #3. 1D Arrays")
+print("1D Arrays")
 
 # Array size definition and random generation
 n = 20 
